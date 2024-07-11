@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.deps.json
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.runtimeconfig.json
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\refint\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\ref\SysCafeteria.EntidadDeNegocio.dll

@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.deps.json
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafet.16EF36D8.Up2Date
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\refint\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\ref\SysCafeteria.AccesoADatos.dll
