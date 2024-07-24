@@ -13,3 +13,4 @@ C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\refint\SysCafeteria.AccesoADatos.dll
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\ref\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\refint\SysCafeteria.LogicaDeNegocio.dll
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.pdb
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\ref\SysCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.sourcelink.json

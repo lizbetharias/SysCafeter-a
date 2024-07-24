@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4FPCFRTysjNzWzudbsTFSg8X3+dW/qDUgdsTCCCtCpU=",
+  "Source": "SysCafeteria.WebAPI",
+  "BasePath": "_content/SysCafeteria.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

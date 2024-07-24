@@ -12,3 +12,4 @@ C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\ne
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.genruntimeconfig.cache
 C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\ref\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Music\SysCafeteria\SysCafeteria.EntidadDeNegocio\obj\Debug\net8.0\SysCafeteria.EntidadDeNegocio.sourcelink.json
